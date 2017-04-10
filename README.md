@@ -1,2 +1,2 @@
 # hello-world
-learning repo
+Sem se píšou instrukce k použití, nejlépe anglicky.
